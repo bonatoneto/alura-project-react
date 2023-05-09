@@ -1,0 +1,17 @@
+.form {
+    max-width: 70%;
+    margin: auto;
+    padding: 24px 48px;
+    background-color: #f2f2f2;
+    border-radius: 16px;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.08);
+
+}
+.form form h2 {
+    margin: 0px 0px 12px 0;
+}
+
+.form form {
+    display: flex;
+    flex-direction: column;
+}
